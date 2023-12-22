@@ -1,0 +1,182 @@
+[
+    {
+      "name": "iPhone X",
+      "price": 154,
+      "isFeatured": true,
+      "features": ["company: Apple"]
+    },
+    {
+      "name": "Galaxy S21",
+      "price": 799,
+      "isFeatured": false,
+      "features": ["company: Samsung"]
+    },
+    {
+      "name": "XPS 13",
+      "price": 1299,
+      "isFeatured": true,
+      "features": ["company: Dell"]
+    },
+    {
+      "name": "Envy x360",
+      "price": 899,
+      "isFeatured": false,
+      "features": ["company: HP"]
+    },
+    {
+      "name": "Xperia 1 III",
+      "price": 1199,
+      "isFeatured": true,
+      "features": ["company: Sony"]
+    },
+    {
+      "name": "MacBook Air",
+      "price": 999,
+      "isFeatured": true,
+      "features": ["company: Apple"]
+    },
+    {
+      "name": "Galaxy Tab S7",
+      "price": 649,
+      "isFeatured": false,
+      "features": ["company: Samsung"]
+    },
+    {
+      "name": "Inspiron 15",
+      "price": 699,
+      "isFeatured": true,
+      "features": ["company: Dell"]
+    },
+    {
+      "name": "Pavilion x360",
+      "price": 749,
+      "isFeatured": false,
+      "features": ["company: HP"]
+    },
+    {
+      "name": "BRAVIA OLED A8H",
+      "price": 2499,
+      "isFeatured": true,
+      "features": ["company: Sony"]
+    },
+        {
+          "name": "iPhone X",
+          "price": 154,
+          "isFeatured": true,
+          "features": ["company: Apple"]
+        },
+        {
+          "name": "Galaxy S21",
+          "price": 799,
+          "isFeatured": false,
+          "features": ["company: Samsung"]
+        },
+        {
+          "name": "XPS 13",
+          "price": 1299,
+          "isFeatured": true,
+          "features": ["company: Dell"]
+        },
+        {
+          "name": "Envy x360",
+          "price": 899,
+          "isFeatured": false,
+          "features": ["company: HP"]
+        },
+        {
+          "name": "Xperia 1 III",
+          "price": 1199,
+          "isFeatured": true,
+          "features": ["company: Sony"]
+        },
+        {
+            "name": "iPhone 13 Pro",
+            "price": 1099,
+            "isFeatured": true,
+            "features": ["company: Apple"]
+          },
+          {
+            "name": "Galaxy Book Pro",
+            "price": 1299,
+            "isFeatured": true,
+            "features": ["company: Samsung"]
+          },
+          {
+            "name": "Alienware m15",
+            "price": 1799,
+            "isFeatured": true,
+            "features": ["company: Dell"]
+          },
+          {
+            "name": "Spectre x360",
+            "price": 1099,
+            "isFeatured": false,
+            "features": ["company: HP"]
+          },
+          {
+            "name": "Xperia 5 III",
+            "price": 1399,
+            "isFeatured": true,
+            "features": ["company: Sony"]
+          },
+          {
+            "name": "iPhone 12",
+            "price": 799,
+            "isFeatured": true,
+            "features": ["company: Apple"]
+        },
+        {
+            "name": "Galaxy A52",
+            "price": 349,
+            "isFeatured": false,
+            "features": ["company: Samsung"]
+        },
+        {
+            "name": "Latitude 14",
+            "price": 1199,
+            "isFeatured": true,
+            "features": ["company: Dell"]
+        },
+        {
+            "name": "Spectre x360",
+            "price": 949,
+            "isFeatured": false,
+            "features": ["company: HP"]
+        },
+        {
+            "name": "Xperia 10 II",
+            "price": 699,
+            "isFeatured": true,
+            "features": ["company: Sony"]
+        },
+        {
+            "name": "iPad Pro",
+            "price": 1099,
+            "isFeatured": true,
+            "features": ["company: Apple"]
+        },
+        {
+            "name": "Galaxy Watch 4",
+            "price": 349,
+            "isFeatured": false,
+            "features": ["company: Samsung"]
+        },
+        {
+            "name": "Precision 15",
+            "price": 1299,
+            "isFeatured": true,
+            "features": ["company: Dell"]
+        },
+        {
+            "name": "Elite Dragonfly",
+            "price": 1299,
+            "isFeatured": false,
+            "features": ["company: HP"]
+        },
+        {
+            "name": "BRAVIA X90J",
+            "price": 1799,
+            "isFeatured": true,
+            "features": ["company: Sony"]
+        }
+        ]
